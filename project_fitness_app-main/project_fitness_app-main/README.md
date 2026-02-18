@@ -1,8 +1,2 @@
-# React Fitness Application
-
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+fitness coach that provides personalized exercise advice
+and workout schedules. Enabled users to track progress and set fitness goals for improved health management
